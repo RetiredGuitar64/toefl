@@ -8,5 +8,8 @@ renovation 整修
 irritability 过敏性,易怒,兴奋性
 lounge 休息室
 depletion 消耗
+accomplishment 成就
+contentment 满足
+expedite 加速, 加急(服务)
+contradict 反驳, 矛盾
 
-15.20开
