@@ -1,2 +1,22 @@
-complete the words   2min
-Read the Email       45s/1
+   提醒              建议时间    DDL
+complete the words   2:30s       9:00
+Read the Email       1:30s       7:30
+长篇                 2:30s       5:00
+academic             5:00s        nil
+
+
+
+
+
+Build a sentense(10) 36s/题
+
+
+complete the words
+pro    provide protect
+wi     with    will
+ti     tiny
+wh     where   which   while
+th     their   there   these
+of     offen   offer
+ra     rapid
+ne     need
