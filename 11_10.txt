@@ -16,3 +16,24 @@ congestion 堵塞,拥堵
 neglect 忽视
 sprawl 扩张,蔓延
 foster 促进,培养
+
+
+Email
+Dear Ms.Johnson
+I really appreciate for your service about my classmate Emma's charity event for a local animal shelter. Without your service, we will not able to finish this successfully like this.
+But durning this activity, we noticed some issues about the catering service. Sometimes the food delivery will delayed. And orders incorrect was happning in this event.
+Maybe next time, you can deal with this more.
+Sincerely,
+Conor
+
+
+Dear Ms. Johnson,
+I really appreciate the service you provided to Emma's charity event. Without you, we will never make this event successful.
+However, during this event there were some issues about the catering service. Like food delivery is delayed, and some guests said incorrect orders is happening.
+For your later service, It would be great if you can deliver food earlier. In addition, you can check the orders catiously before delivering.
+Sincerely,
+Conor
+
+Several guests received wrong orders.
+cautiously
+cautiously cautious
