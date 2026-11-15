@@ -1,7 +1,8 @@
+Reading 一共11:30s
    提醒              建议时间    DDL
 complete the words   2:30s       9:00
-Read the Email       1:30s       7:30
-长篇                 2:30s       5:00
+Read the Email       1:30s/2篇   7:30
+长篇                 2:30s/1篇   5:00
 academic             5:00s        nil
 
 
@@ -20,3 +21,5 @@ th     their   there   these
 of     offen   offer
 ra     rapid
 ne     need
+mi     mind
+expl   explored  explores
