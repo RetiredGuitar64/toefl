@@ -1,0 +1,28 @@
+bison 野牛
+catastrophe  灾难
+catastrophic 灾难性的
+sewage   污水
+mobilize  调动起来
+equality 同等的
+inequality 不同等
+integral 完整的 integral to 
+exaggerate
+subtle 微妙的
+adept 专家
+anticipate 预期,猜
+
+Dear Mr. Evans
+I'm writing to inquire about the problem of our printer in the office recently. The printer always not working in this week and it seems there is something stuck in the machine.
+This problem had made me difficult to print PDF documents when I need. And it's a little bit inconvenient.
+So I would really appreciate it if you can have a check to the printer. One possible solution is to open the printer and check is there some papers stuck in the machine. Thanks you.
+Sincerely,
+Conor
+
+Dear Mr. Evans,
+I'm writing to report an issue about our printer in the office. The printer has frequently stopped working this week, and it seems that something is stuck inside the machine.
+This problem has made it difficult for me to print important PDF documents when I need them.
+As a result, my work has been delayed.
+I would really appreciate it if you could check the printer. One possible solution is to open the machine and inspect whether any paper is stuck inside. Thank you.
+Sincerely,
+Conor
+
