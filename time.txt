@@ -9,4 +9,4 @@ academic             5:00s        nil
 
 
 
-Build a sentense(10) 36s/题
+Build a sentense(10) 6min/10题 36s/题
