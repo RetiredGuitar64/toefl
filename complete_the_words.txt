@@ -18,3 +18,4 @@ ef     effort  effect
 lo     lost    lose    loss
 spr    spread  
 mon    month
+art    artistic artistry(.n)
