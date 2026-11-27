@@ -19,3 +19,4 @@ lo     lost    lose    loss
 spr    spread  
 mon    month
 art    artistic artistry(.n)
+li     like
